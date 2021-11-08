@@ -1,0 +1,5 @@
+<!-- we just loop into the tasks and pass that individual task in [task] pass it to task-item.ts-->
+<app-add-task></app-add-task>
+<app-task-item *ngFor="let task of tasks" [task]="task" 
+(onDeleteTask)="deleteTask(task)" 
+(onToggleReminder)="toggleReminder(task)" ></app-task-item>

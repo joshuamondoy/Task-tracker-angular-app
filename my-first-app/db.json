@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Go to market",
+      "day": "May 24th at 12:30am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Hangout with friends",
+      "day": "May 24th at 12:30am",
+      "reminder": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+1.Install npm "npm install -g @angular/cli"
+2.Run cmd on the folder you want to create your Angular app
+3.Run "ng new my-first-app --no-strict"
+4.Cd to your app "cd my-first-app"
+5.Run "ng serve"
+6.Open on the url given
+
+npm install --save bootstrap@3 - install boostrap locally
+ng serve - run the app in default port
+ng generate component folderName/componentName - create new component
+https://github.com/FortAwesome/angular-fontawesome
+https://www.npmjs.com/package/json-server - npm run server
